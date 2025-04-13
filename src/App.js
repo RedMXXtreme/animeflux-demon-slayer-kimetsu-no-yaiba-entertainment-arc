@@ -3,7 +3,7 @@ import { FaRandom, FaSearch } from "react-icons/fa";
 
 const AnimePage = () => {
   const videos = [
-    { id: 1, src: "https://yasdownloads.org/demon-slayer-entertainment-district-arc-17483?season=01&episode=1", HD1: "", HD2: "", HDSUB1: "", HDSUB2: "" },
+    { id: 1, src: "https://yasdownloads.org/demon-slayer-entertainment-district-arc-17483?season=01&episode=1", HD1: "https://swishsrv.com/e/qavknm1pviek", HD2: "https://sstream.site/e/uml7esaaiee8", HDSUB1: "https://sstream.site/e/oypkmq5zeiaf", HDSUB2: "https://swishsrv.com/e/ke03ntrvfq6p" },
     { id: 2, src: "https://yasdownloads.org/demon-slayer-entertainment-district-arc-17483?season=01&episode=2", HD1: "", HD2: "", HDSUB1: "", HDSUB2: "" },
     { id: 3, src: "https://yasdownloads.org/demon-slayer-entertainment-district-arc-17483?season=01&episode=3", HD1: "", HD2: "", HDSUB1: "", HDSUB2: "" },
     { id: 4, src: "https://yasdownloads.org/demon-slayer-entertainment-district-arc-17483?season=01&episode=4", HD1: "", HD2: "", HDSUB1: "", HDSUB2: "" },
